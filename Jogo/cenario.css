@@ -1,0 +1,21 @@
+body {
+    overflow: hidden;
+    background-image: url(imagens/ceu.png);
+}
+
+#fotoCarro {
+    width: 40px;
+    position: absolute;
+    left: 100px;
+    top: 395px;
+}
+
+div#btn_esquerdo,
+div#btn_direito {
+    background-color: rgba(229, 255, 0, 0);
+    /* width: 100px; */
+    height: 610px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}

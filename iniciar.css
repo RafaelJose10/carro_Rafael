@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}
+
+h2 {
+    color: rgb(245, 46, 46);
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black;
+}
+
+p {
+    color: yellow;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+button {
+    width: 150px;
+    font-size: 50px;
+    position: absolute;
+    left: calc(50% - 80px);
+    top: calc(60% - 50px);
+}

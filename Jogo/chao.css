@@ -1,0 +1,22 @@
+div#divChão {
+    /* width: 1500px; */
+    height: 300px;
+    background-color: rgb(97, 60, 49);
+    /* background-color: rgb(97, 60, 49); */
+    /*  */
+    position: absolute;
+    left: 0px;
+    top: 420px;
+}
+
+img#fotoChão1,
+img#fotoChão2 {
+    position: absolute;
+    /* left: 0px; */
+    top: 420px;
+    width: 200px;
+}
+
+img#fotoChão2 {
+    left: 700px;
+}
