@@ -1,0 +1,17 @@
+div#score {
+    border: solid 2px rgb(144, 96, 6);
+    width: 200px;
+    position: absolute;
+    left: calc(50% - 100px)
+}
+
+div#txt_score,
+div#pontuação_score {
+    color: orange;
+    font: normal 25pt arial;
+    text-align: center;
+}
+
+div#pontuação_score {
+    font-size: 70px;
+}
