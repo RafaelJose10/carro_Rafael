@@ -20,7 +20,7 @@ function inicia_misseis() {
         todos_misseis[c].id = 'img_misseis'
     };
     quant = 1;
-    animação = setInterval(cria_missil, 1000);
+    animação = setInterval(cria_missil, 400);
     animação2 = setInterval(cai_missil, 100);
 };
 
